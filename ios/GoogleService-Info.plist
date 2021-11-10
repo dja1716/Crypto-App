@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938131093003-dlbj7gj45tmf4mtsfbt2tbrb21983qgg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938131093003-dlbj7gj45tmf4mtsfbt2tbrb21983qgg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>938131093003-95aoh632rhqv8d4g2sihtdot6o9l82gj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP5NHk6BRv-EzU91biQsu1PqsT9POC_EE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938131093003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.name.socialcoin</string>
+	<key>PROJECT_ID</key>
+	<string>social-coin-f3108</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-coin-f3108.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938131093003:ios:1bcf828f062f3ad94cf90e</string>
+</dict>
+</plist>
